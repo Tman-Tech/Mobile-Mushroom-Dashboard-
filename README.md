@@ -1,2 +1,2 @@
-# Mobile-Mushroom-Dashboard-
+# Mobile-Mushroom-Dashboard
 ## Prerequisites

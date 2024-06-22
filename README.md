@@ -1,2 +1,2 @@
 # Mobile-Mushroom-Dashboard-
-All the code and instructions to create the same dashboard as seen in my video. 
+## This doc gives all the code to make the mushroom-based dashboard as seen in the video.
